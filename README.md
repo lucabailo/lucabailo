@@ -3,7 +3,7 @@
 MSc student in **Software Design** at the IT University of Copenhagen, with a background in **Automation Engineering** (University of Bologna).
 I started out programming PLCs and HMIs for industrial machines, and now I build full-stack web apps. I like software that solves real, everyday problems.
 
-📍 Copenhagen, Denmark · 🎓 Graduating July 2027 · 💼 Open to student assistant / developer roles
+📍 Copenhagen, Denmark · 🎓 Graduating July 2027 · 💼 Open to developer roles
 
 ## 🛠️ Tech stack
 
