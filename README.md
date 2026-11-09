@@ -1,19 +1,20 @@
 # Hi, I'm Luca 👋
 
 MSc student in **Software Design** at the IT University of Copenhagen, with a background in **Automation Engineering** (University of Bologna).
-I started out programming PLCs and HMIs for industrial machines, and now I build full-stack web apps. I like software that solves real, everyday problems.
+I started out programming PLCs and HMIs for industrial machines, and now I build full-stack web and mobile apps. I like software that solves real, everyday problems.
 
 📍 Copenhagen, Denmark · 🎓 Graduating July 2027 · 💼 Open to student assistant / developer roles
 
 ## 🛠️ Tech stack
 
 **Languages:** TypeScript, JavaScript, Java, Python, C, SQL, MATLAB
-**Web & backend:** React, Vite, Node.js, Express, Spring Boot, REST APIs, PostgreSQL
+**Web & mobile:** React, React Native, Expo, Vite, Node.js, Express, Spring Boot, REST APIs, PostgreSQL, SQLite
 **Automation & embedded:** CODESYS (IEC 61131-3), PLC/HMI, CANopen, Arduino, STM32
 **Tools:** Git, Docker, GitHub Actions, Linux, Slurm, Jira, Figma
 
 ## 🚀 Projects
 
+- **[Workout Log](https://github.com/lucabailo/workout-log)**: mobile app to plan routines and log strength workouts set by set, with records, body tracking and stats; designed in Figma first, works fully offline, [APK for Android](https://github.com/lucabailo/workout-log/releases/latest) *(React Native, Expo, TypeScript, SQLite, Jest, GitHub Actions)*
 - **[Job Tracker](https://github.com/lucabailo/job-tracker)**: full-stack app to track job applications on a board by stage, with stats and JSON import *(Java 17, Spring Boot, PostgreSQL, Flyway, React, TypeScript, Docker, GitHub Actions)*
 - **Learning-to-Rank for ML-based Query Optimization**: research project on ranking query plans with ML models, trained on ITU's HPC GPU cluster *(ongoing · Python, SQL)*
 - **[NaturalSkincare](https://github.com/lucabailo/NaturalSkincare)**: full-stack e-commerce with product catalogue, cart and REST API *(React 19, TypeScript, Vite, Node.js, Express)*
